@@ -167,7 +167,7 @@ crop_yields_50_years %>%
        color = "Continent",
        title = "How has wheat efficiency changed across countries?")
 
-countrycode("USA", "iso3c", "continent")
+`countrycode("USA", "iso3c", "continent")
 ```
 
 
